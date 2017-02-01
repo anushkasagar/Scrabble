@@ -1,1 +1,2 @@
-# Scrabble
+# Scrabble GUI 
+By Anushka Sagar
